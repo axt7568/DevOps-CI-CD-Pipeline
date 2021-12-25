@@ -1,2 +1,2 @@
-# DevOps CI-CD-Pipeline
+# DevOps CI-CD Pipeline
 CI-CD pipeline implementation using Jenkins
